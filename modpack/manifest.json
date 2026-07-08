@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "files": [
+    "mods/sodium.jar",
+    "mods/iris.jar",
+    "config/options.txt"
+  ]
+}
