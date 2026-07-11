@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
     "mods/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
     "mods/iris.jar",
@@ -23,7 +23,7 @@
     "mods/AsyncParticles-21.1.0b-beta.4%2B1.21.1.jar",
     "mods/BadOptimizations-2.4.1-1.21.1.jar",
     "mods/blockentities-[NEOFORGED]-1.21.1%2B1.1.0.jar",
-    "mods/carryon-neoforge-1.21.1-2.2.4.4.jar",
+    "mods/carryon-neoforge-1.21.1-2.2.5.8.jar",
     "mods/Chunky-NeoForge-1.4.23.jar",
     "mods/cloth-config-15.0.140-neoforge.jar",
     "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
